@@ -1,0 +1,35 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    width: 100%;
+    font-size: 23px;
+    margin: 0px;
+}
+
+#start, #status_model, #object_found{
+    font-size: 18px;
+}
+
+.copyright_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: gold;
+    text-align: center;
+    line-height: 3;
+}
+
+canvas{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px white;
+}
+
+.note{
+    font-size: 15px;
+    color: black;
+  
+}
